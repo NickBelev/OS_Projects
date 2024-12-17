@@ -1,8 +1,8 @@
 # COMP310_W2024_A1
 
 Students:
-Theodor Semerdzhiev (261118892)
-Nick Belev (261076111)
+Theodor Semerdzhiev
+Nick Belev
 
 ## Features
 
