@@ -1,7 +1,7 @@
 # COMP310_W2024_A1
 
 Students:
-Theodor Semerdzhiev
+Theodor Semerdzhiev,
 Nick Belev
 
 ## Features
